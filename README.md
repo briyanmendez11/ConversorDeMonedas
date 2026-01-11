@@ -32,5 +32,3 @@ Aplicación de consola desarrollada en **Java 17** que permite convertir valores
 Los datos de conversión se obtienen desde:
 
 👉 https://app.exchangerate-api.com/
-
-Ejemplo de endpoint usado:
